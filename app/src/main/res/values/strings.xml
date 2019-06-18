@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Auto Maker</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">Card View</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
